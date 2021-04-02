@@ -1,5 +1,7 @@
 # AISR_CS4110_TUDelft
 
+Course Artificial Intelligence for Software Testing and Reverse Engineering.
+
 ## Fuzzing
 In the Fuzzing lab we tried to implement our fuzzer using Hill Climber optimizer method in order to minimize the branch distance to cover as many branches as possible. Then, in the report we had to compare the branch coverage for both Random fuzzing vs Hill Climber and then use a SOTA tool called AFL to compare again with our implementation. The code can be found on FuzzingLab/fuzzing/FuzzingLab.java and the report in the directory FuzzingLab.
 
